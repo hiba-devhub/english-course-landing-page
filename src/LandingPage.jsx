@@ -392,7 +392,7 @@ const LandingPage = () => {
       {/* Footer */}
       <footer className="bg-blue-600 text-white py-8">
         <div className="container mx-auto px-4 text-center">
-          <p>&copy; 2024 EnglishMaster. All rights reserved.</p>
+          <p>&copy; 2025 EnglishMaster. All rights reserved.</p>
           <div className="mt-4">
             <a href="/privacy-policy" className="mx-2 hover:underline">
               Privacy Policy
